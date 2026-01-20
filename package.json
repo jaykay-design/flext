@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "HTML textbox polyfill for CSS field-sizing:content",
   "license": "ISC",
-  "author": "",
+  "author": "John Caprez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaykay-design/flext.git"
+  },
   "type": "commonjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
